@@ -1,1 +1,1 @@
-<img width="1535" height="591" alt="Epigraph Solutions Banner Cropped" src="https://github.com/user-attachments/assets/3a5ff774-04db-4c5a-acef-5f79113bc15e" />
+<img width="1536" height="1024" alt="Epigraph Solutions Banner" src="https://github.com/user-attachments/assets/62040a20-a819-4f3a-9c6e-066f6a7bb5ea" />
